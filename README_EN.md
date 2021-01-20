@@ -176,6 +176,7 @@ If nothing else, you will receive an email about the domain name.
 
 If you encounter any problems or bugs, please mention [issues](https://github.com/luolongfei/freenom/issues). If freenom changes the algorithm and causes this project to fail,
 Please mention [issues](https://github.com/luolongfei/freenom/issues) to inform me that I will fix it in time and maintain this project for a long time. Welcome star ~
+///___///
 
 ### ❤  Donate
 
